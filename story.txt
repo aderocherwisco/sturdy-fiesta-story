@@ -1,1 +1,8 @@
-It was the day of the first Computer Science midterm, and I was very nervous. It isn't like I've never taken a Computer Science exam before, but this is CS400. This exam will certainly be the most difficult one I've ever taken, and despite all my studying, I remain apprehensive. So many different things could go wrong. What if I misunderstood how AVL works? What if they ask me to implement a Red Black Tree delete method? What if I couldn't even find the test room in time? I decided to leave for the testing site a whole 45 minutes early. Surely this would ensure I couldn't possibly miss it.
+It was the day of the first Computer Science midterm, and I was very nervous.
+It isn't like I've never taken a Computer Science exam before, but this is CS400.
+This exam will certainly be the most difficult one I've ever taken, and despite
+all my studying, I remain apprehensive. So many different things could go wrong.
+What if I misunderstood how AVL works? What if they ask me to implement a Red B
+lack Tree delete method? What if I couldn't even find the test room in time? I
+decided to leave for the testing site a whole 45 minutes early. Surely this would
+ensure I couldn't possibly miss it.
