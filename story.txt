@@ -6,3 +6,9 @@ What if I misunderstood how AVL works? What if they ask me to implement a Red Bl
 Tree delete method? What if I couldn't even find the test room in time? I
 decided to leave for the testing site a whole 45 minutes early. Surely this would
 ensure I couldn't possibly miss it.
+
+I walked out of Chamberlin Hall towards the testing site that was about ten
+minutes away. I was walking swiftly in hopes of getting there quicker than
+everyone else. Then, I realized that my shoe became untied. I crouched
+down and tied it up. I then heard a strange noise and looked up to see
+what it was.
