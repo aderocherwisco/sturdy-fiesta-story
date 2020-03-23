@@ -21,3 +21,8 @@ the crowd.
 The man started pushing through the crowd, and I looked back in horror to realize that he was following me.
 I kept walking away, trying to get away from this mysterious figure, but he was persistent, and 
 started shouting "Hey, you" towards me.
+
+Suddenly I recognize the shiny, bald head. Professor Doe. My sworn nemesis. Not only had he 
+failed me in CS 300, but he seems to continually sabotage my academic pursuits despite 
+seeming to gain little from it himself. Luckily, I narrowly esccaped, and aced my midterm.
+Huzzah!
